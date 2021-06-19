@@ -1,0 +1,102 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/ArraySequence.cpp
+DynamicArray.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/DynamicArray.h
+iostream
+-
+LinkedList.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/LinkedList.h
+Tests_DA_and_LL.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Tests_DA_and_LL.h
+Vector.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Vector.h
+Tests_AS_and_LLS.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Tests_AS_and_LLS.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/ArraySequence.h
+Sequence.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Sequence.h
+DynamicArray.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/DynamicArray.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/DynamicArray.h
+iostream
+-
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/LinkedList.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/LinkedListSequence.h
+Sequence.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Sequence.h
+LinkedList.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/LinkedList.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/MenuVector.cpp
+MenuVector.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/MenuVector.h
+DynamicArray.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/DynamicArray.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/MenuVector.h
+iostream
+-
+Vector.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Vector.h
+complex
+-
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Sequence.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Tests_AS_and_LLS.cpp
+Tests_AS_and_LLS.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Tests_AS_and_LLS.h
+cassert
+-
+cstdlib
+-
+ArraySequence.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/ArraySequence.h
+LinkedListSequence.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/LinkedListSequence.h
+iostream
+C:/Users/Zver/Desktop/Mephi stuff/lab2/iostream
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Tests_AS_and_LLS.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Tests_DA_and_LL.cpp
+Tests_DA_and_LL.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Tests_DA_and_LL.h
+cassert
+-
+iostream
+C:/Users/Zver/Desktop/Mephi stuff/lab2/iostream
+DynamicArray.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/DynamicArray.h
+LinkedList.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/LinkedList.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Tests_DA_and_LL.h
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/Vector.h
+ArraySequence.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/ArraySequence.h
+cmath
+-
+iostream
+-
+
+C:/Users/Zver/Desktop/Mephi stuff/lab2/main.cpp
+ArraySequence.cpp
+C:/Users/Zver/Desktop/Mephi stuff/lab2/ArraySequence.cpp
+LinkedList.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/LinkedList.h
+MenuVector.h
+C:/Users/Zver/Desktop/Mephi stuff/lab2/MenuVector.h
+
